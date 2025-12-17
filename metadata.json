@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Merry Christmas WebGL",
+  "description": "A high-end 3D interactive Christmas experience with particle systems, GSAP animations, and hand gesture control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
